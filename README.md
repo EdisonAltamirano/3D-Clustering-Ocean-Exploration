@@ -5,4 +5,5 @@
 | ---- | ----- | ------ |
 | Edison Altamirano | [A00825234@itesm.mx](mailto:A00825234@itesm.mx) | [@EdisonAltamirano](https://github.com/EdisonAltamirano) |
 | Sofi | [sofiemail@itesm.mx](mailto:A01283070@itesm.mx) | [@Sofi](https://github.com/Sofi) |
+| Soff | [A01721802@tec.mx](mailto:A01721802@tec.mx) | [@somarh](https://github.com/somarh) |
 
